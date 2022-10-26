@@ -1,0 +1,3 @@
+#!/bin/bash
+time_interval=5   #in seconds
+state_file_location="./.state"
